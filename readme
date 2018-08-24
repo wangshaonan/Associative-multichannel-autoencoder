@@ -1,0 +1,8 @@
+The code is for paper 'Associative Multichannel Autoencoder for Multimodal Word Representation'
+
+AE.py is basic multichannel autoencoder model
+AE_brain.py is associative multichannel autoencoder model
+AE_brain_weight_val.py is associative multichannel autoencoder model with different value weight for each input modality
+AE_brain_weight_vec.py is associative multichannel autoencoder model with different vector weight for each input modality
+
+tune_*.sh is training and evaluation script
